@@ -4,9 +4,6 @@
   <img width ="120"alt="profile-views" src="https://komarev.com/ghpvc/?username=AlexandreSantaAnnaSilva&color=blueviolet">
 </div>
 
-### Hi there 👋!!!!
-
-### Olá! Me chamo Alexandre 🖐
 - 🔭 Estou atualmente cursando Analisie e Desenvolvimento de Sistemas na UNICAMP 
 - 🌱 Atualmente estou apredendo React
 - 📫 Contate-me no email : alexandersannt@gmail.com
