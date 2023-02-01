@@ -7,7 +7,7 @@
 - 🔭 I'm currently studying Systems'Analysis and Development at Unicamp
 - 🌱 I'm currently learning React 
 - 📫 Contact me on email : alexandersannt@gmail.com
-- 📫 Send me a message on Instagram: ale_castrisilva 📫
+- 📫 Send me a message on Instagram: @ale_castrisilva 📫
 - 😄 Pronouns: ele/dele
 
 
