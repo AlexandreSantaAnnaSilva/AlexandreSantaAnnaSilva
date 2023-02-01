@@ -4,9 +4,10 @@
   <img width ="120"alt="profile-views" src="https://komarev.com/ghpvc/?username=AlexandreSantaAnnaSilva&color=blueviolet">
 </div>
 
-- 🔭 I am currently studying Systems'Analysis and Development at Unicamp
-- 🌱 Atualmente estou apredendo React
-- 📫 Contate-me no email : alexandersannt@gmail.com
+- 🔭 I'm currently studying Systems'Analysis and Development at Unicamp
+- 🌱 I'm currently learning React 
+- 📫 Contact me on email : alexandersannt@gmail.com
+- 📫 Send me a message on Instagram: ale_castrisilva 📫
 - 😄 Pronouns: ele/dele
 
 
