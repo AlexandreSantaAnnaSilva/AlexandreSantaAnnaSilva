@@ -4,7 +4,7 @@
   <img width ="120"alt="profile-views" src="https://komarev.com/ghpvc/?username=AlexandreSantaAnnaSilva&color=blueviolet">
 </div>
 
-- 🔭 Estou atualmente cursando Analisie e Desenvolvimento de Sistemas na UNICAMP 
+- 🔭 I am currently studying Systems'Analysis and Development at Unicamp
 - 🌱 Atualmente estou apredendo React
 - 📫 Contate-me no email : alexandersannt@gmail.com
 - 😄 Pronouns: ele/dele
