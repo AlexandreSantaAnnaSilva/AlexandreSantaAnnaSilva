@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I'm currently studying Systems'Analysis and Development at Unicamp
-- 🌱 I'm currently learning React 
+- 🌱 I'm currently learning Java 
 - 📫 Contact me on email : alexandersannt@gmail.com
 - 📫 Send me a message on Instagram: @ale_castrosilva 📫
 - 😄 Pronouns: ele/dele
