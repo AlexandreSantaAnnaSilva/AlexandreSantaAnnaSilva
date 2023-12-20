@@ -14,7 +14,13 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSantaAnnaSilva&layout=compact&langs_count=7&theme=dracula"/>
   </a>  
 
-  <a href="mailto:alexandersannt@gmail.com"><img src="https://img.shields.io/badge/Mail-Contact%20Me-yellow" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexandre-de-castro-ara%C3%BAjo-sant-anna-silva-3871a6214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/ale_castrosilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:alexandersannt@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-Contact%20Me-yellow?style=for-the-badge" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/alexandre-de-castro-ara%C3%BAjo-sant-anna-silva-3871a6214/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://instagram.com/ale_castrosilva" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 </div>
