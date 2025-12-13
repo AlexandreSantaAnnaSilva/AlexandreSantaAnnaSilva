@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi there 👋, I'm Alexandre</h1>
-<h3>Systems Analysis and Development Student</h3>
+<h3>Graduated in Systems Analysis and Development</h3>
 
 <img 
   src="https://komarev.com/ghpvc/?username=AlexandreSantaAnnaSilva&color=blueviolet&style=flat-square" 
@@ -9,31 +9,29 @@
 />
 
 ---
-
-🌱 Currently studying **Systems Analysis and Development** at **Unicamp**  
-🚀 Learning **Flask** and backend development  
+<p align="center">
+🎓 Graduated in **Systems Analysis and Development** from **Unicamp**  
+🚀 Focused on **Back-end Development**, currently working with **Flask**  
 📫 Email: **alexandersannt@gmail.com**  
 📸 Instagram: **@ale_castrosilva**
+</p>
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🚀 Skills
 
-<img src="https://skillicons.dev/icons?i=java,python,flask,html,css,js,c,cpp,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,flask,nodejs,c,cpp,js,html,css,postgresql,git,github,linux,vscode" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<img 
-  height="160em" 
-  src="https://github-readme-stats.vercel.app/api?username=AlexandreSantaAnnaSilva&show_icons=true&theme=dracula&hide_border=true"
-/>
-
-<img 
-  height="160em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSantaAnnaSilva&layout=compact&theme=dracula&hide_border=true"
-/>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSantaAnnaSilva&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSantaAnnaSilva&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
