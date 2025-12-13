@@ -4,10 +4,9 @@
   <img width="120" alt="profile-views" src="https://komarev.com/ghpvc/?username=AlexandreSantaAnnaSilva&color=blueviolet">
 
   <p>🔭 I'm currently studying Systems'Analysis and Development at Unicamp</p>
-  <p>🌱 I'm currently learning Java</p>
+  <p>🌱 I'm currently learning Flask</p>
   <p>📫 Contact me on email: alexandersannt@gmail.com</p>
   <p>📫 Send me a message on Instagram: @ale_castrosilva 📫</p>
-  <p>😄 Pronouns: ele/dele</p>
 
   <a href="https://github.com/AlexandreSantaAnnaSilva">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSantaAnnaSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
