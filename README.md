@@ -2,21 +2,14 @@
 
 <h1>Hi there 👋, I'm Alexandre</h1>
 <h3>Graduated in Systems Analysis and Development</h3>
+<h3>from Unicamp</h3>
 
 <img 
   src="https://komarev.com/ghpvc/?username=AlexandreSantaAnnaSilva&color=blueviolet&style=flat-square" 
   alt="Profile views"
 />
 
----
-<p align="center">
-🎓 Graduated in **Systems Analysis and Development** from **Unicamp**  
-🚀 Focused on **Back-end Development**, currently working with **Flask**  
-📫 Email: **alexandersannt@gmail.com**  
-📸 Instagram: **@ale_castrosilva**
-</p>
 
----
 
 ## 🚀 Skills
 
