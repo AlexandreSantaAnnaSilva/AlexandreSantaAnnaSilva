@@ -1,8 +1,7 @@
 <div align="center">
 
 <h1>Hi there 👋, I'm Alexandre</h1>
-<h3>Graduated in Systems Analysis and Development</h3>
-<h3>from Unicamp</h3>
+<h3>Systems Analysis and Development Graduate at Unicamp</h3>
 
 <img 
   src="https://komarev.com/ghpvc/?username=AlexandreSantaAnnaSilva&color=blueviolet&style=flat-square" 
