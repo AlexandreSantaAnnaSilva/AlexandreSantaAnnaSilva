@@ -1,6 +1,8 @@
 <div align="center">
 <h1>Hi there 👋, I'm Alexandre</h1>
 <h3>Systems Analysis and Development Graduate at Unicamp</h3>
+  <img src="https://img.shields.io/badge/UNICAMP-Systems%20Analysis%20and%20Development-blueviolet?style=for-the-badge&logo=academia&logoColor=white"/>
+  <br/><br/>
 <img 
   src="https://komarev.com/ghpvc/?username=AlexandreSantaAnnaSilva&color=blueviolet&style=flat-square" 
   alt="Profile views"
